@@ -1,0 +1,25 @@
+{ this is for csc 450, hi i'm lina vo. here are some symbols! *&@$*() integer }
+
+myBankAccount 5;
+
+program44
+
+program div while or and mod if var integer array of real function procedure begin end then else do not
+
+procedure; 5helio
+
+my*BankAccount
+
+1.22 1E10 5.20E10 1E-10 5E+10 1.20E-10 4.2E+6
+
+8E 1E+
+
+<	:	>	=	+	-	[	]	(	)	,	.	/
+
+<= 	<>	 >=	 :=
+
+{ { check out this invalid comment...  }
+
+^	&	$	%	#	@	!	~	|	\	‘	“	?
+
+1.
